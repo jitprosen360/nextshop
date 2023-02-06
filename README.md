@@ -6,7 +6,6 @@
 
 ## Author: Dev AT
 
-## Youtube tutorials: https://www.youtube.com/watch?v=UsEN7LGefhA&list=PLs4co9a6NhMzf-5tIWfpzDCgdMyg-CceX
 
 ## Install dependencies 
 ### `npm install`
